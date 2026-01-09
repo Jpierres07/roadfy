@@ -1,3 +1,0 @@
-"""
-Routers del sistema RoadFY
-"""
